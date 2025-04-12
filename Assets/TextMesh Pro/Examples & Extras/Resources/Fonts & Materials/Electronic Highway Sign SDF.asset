@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Electronic Highway Sign SDF Material
-  m_Shader: {fileID: 4800000, guid: 136a4014c51afc446949b4f82d208b35, type: 3}
+  m_Shader: {fileID: 4800000, guid: fe393ace9b354375a9cb14cdbbc28be4, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -55,16 +55,19 @@ Material:
     - _BumpOutline: 0
     - _ColorMask: 15
     - _CullMode: 0
+    - _CutoffY: 0
     - _Diffuse: 0.5
     - _FaceDilate: 0
     - _FaceUVSpeedX: 0
     - _FaceUVSpeedY: 0
+    - _Fade: 1
     - _Glossiness: 0.5
     - _GlowInner: 0.05
     - _GlowOffset: 0
     - _GlowOuter: 0.05
     - _GlowPower: 0.75
     - _GradientScale: 11
+    - _Height: 2
     - _LightAngle: 3.1416
     - _MaskSoftnessX: 0
     - _MaskSoftnessY: 0
